@@ -3,3 +3,5 @@ Hai
 Animals
 Birds
 Pets
+love
+human
